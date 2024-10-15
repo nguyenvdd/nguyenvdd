@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android development**  
 - 👯 I’m looking to collaborate on **open-source Android projects**  
-- 📫 How to reach me: [Facebook](https://facebook.com/yourprofile), [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Facebook](https://facebook.com/duccguccii), [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## About me
 I am a developer who loves coding and learning new technologies...
