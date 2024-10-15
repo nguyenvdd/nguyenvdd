@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About me
 
-![My Image](https://imgur.com/g4mbBAb.gif)  <!-- Ảnh từ Imgur -->
+                         ![My Image](https://imgur.com/g4mbBAb.gif)  <!-- Ảnh từ Imgur -->
 
 
 - 🔭 Hi, I'm Nguyen Van Duc!
