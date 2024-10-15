@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web development**  
 - 👯 I’m looking to collaborate on **open-source Android projects**  
-- 📫 How to reach me: [Facebook](https://facebook.com/duccguccii), [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Facebook](https://facebook.com/duccguccii), [LinkedIn](https://linkedin.com/in/yourprofile), [Instagram](https://instagram.com/duccguccii), [TikTok](https://tiktok.com/@ducc20_07), Email: [nguyenvanduc2k3@gmail.com](mailto:nguyenvanduc2k3@gmail.com)
 
 ## 👨‍💻 About me
 
@@ -22,7 +22,6 @@
 - 🌐 I'm a web developer with experience in both frontend and backend technologies.
 - 🚀 My goal is to build responsive, user-friendly websites and scalable web applications that provide excellent user experiences.
 - 🌱 Currently, I’m learning advanced web development frameworks and cloud services to expand my skillset.
-- 📫 You can reach me at: [nguyenvanduc2k3@gmail.com]
 - 🏠 Address: [Tổ 21, Khu Phố 4, Phường Bửu Long, TP Biên Hòa, Tỉnh Phú Yên]
 
 ## ⭐ My Skills 👨‍💻 👇
