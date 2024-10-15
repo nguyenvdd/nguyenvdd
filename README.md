@@ -6,7 +6,7 @@
 
 ## A passionate developer from Vietnam 🌍
 
-- 🔭 I’m currently working on **Android development**  
+- 🔭 I’m currently working on **Web development**  
 - 👯 I’m looking to collaborate on **open-source Android projects**  
 - 📫 How to reach me: [Facebook](https://facebook.com/duccguccii), [LinkedIn](https://linkedin.com/in/yourprofile)
 
