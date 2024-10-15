@@ -8,7 +8,8 @@
 
 ## 👨‍💻 About me
 
-![Profile Image](https://your-link.com/1232132131.gif) <!-- Thay thế đường dẫn này bằng đường dẫn thực tế của ảnh GIF của bạn -->
+![My Image](https://i.imgur.com/abc123.gif)
+
 
 - 🔭 Hi, I'm Nguyen Van Duc!
 - 🌍 I'm from Vietnam 🇻🇳.
