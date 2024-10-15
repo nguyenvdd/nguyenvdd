@@ -7,8 +7,17 @@
 - 👯 I’m looking to collaborate on **open-source Android projects**  
 - 📫 How to reach me: [Facebook](https://facebook.com/duccguccii), [LinkedIn](https://linkedin.com/in/yourprofile)
 
-## About me
-I am a developer who loves coding and learning new technologies...
+
+## 👨‍💻 About me
+
+- 🔭 Hi, I'm Nguyen Van Duc!
+- 🌍 I'm from Vietnam 🇻🇳.
+- 💡 I’m passionate about coding, and I love exploring new technologies.
+- 🌐 I'm a web developer with experience in both frontend and backend technologies.
+- 🚀 My goal is to build responsive, user-friendly websites and scalable web applications that provide excellent user experiences.
+- 🌱 Currently, I’m learning advanced web development frameworks and cloud services to expand my skillset.
+- 📫 You can reach me at: [nguyenvanduc2k3@gmail.com]
+
 
 
 
@@ -35,4 +44,7 @@ I am a developer who loves coding and learning new technologies...
 |:------------------:|:-------------:|:--------------:|:-------:|:---:|
 | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
+
+![Profile Image](https://avatars.githubuserconte
+Profile Image](https://avatars.githubusercontent.com/u/9919?s=280&v=4) <!-- Đây là một ví dụ ảnh từ GitHub -->
 
