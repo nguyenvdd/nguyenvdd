@@ -1,40 +1,39 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Van+Duc!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Nguyen+Van+Duc" />
 </h1>
 
-## A passionate developer from Vietnam 🌍
+## A Passionate Developer from Vietnam 🌍
 
-- 🔭 I’m currently working on **Web development**  
-- 👯 I’m looking to collaborate on **open-source Android projects**  
-- 📫 How to reach me: [Facebook](https://facebook.com/duccguccii), [LinkedIn](https://linkedin.com/in/yourprofile), [Instagram](https://instagram.com/duccguccii), [TikTok](https://tiktok.com/@ducc20_07),
--  Email: [nguyenvanduc2k3@gmail.com](mailto:nguyenvanduc2k3@gmail.com)
+- 🔭 Currently focused on **Web Development**  
+- 👯 Seeking collaboration on **Open-Source Android Projects**  
+- 📫 Connect with me: [Facebook](https://facebook.com/duccguccii), [LinkedIn](https://linkedin.com/in/yourprofile), [Instagram](https://instagram.com/duccguccii), [TikTok](https://tiktok.com/@ducc20_07), 
+- ✉️ Email: [nguyenvanduc2k3@gmail.com](mailto:nguyenvanduc2k3@gmail.com)
 
-## 👨‍💻 About me
+## About Me 👨‍💻
 
 <p align="center">
-    <img src="https://imgur.com/g4mbBAb.gif" alt="My Image" />  <!-- Ảnh từ Imgur -->
+    <img src="https://imgur.com/g4mbBAb.gif" alt="My Image" />
 </p>
 
-- 🔭 Hi, I'm Nguyen Van Duc!
-- 🌍 I'm from Vietnam 🇻🇳.
-- 💡 I’m passionate about coding, and I love exploring new technologies.
-- 🌐 I'm a web developer with experience in both frontend and backend technologies.
-- 🚀 My goal is to build responsive, user-friendly websites and scalable web applications that provide excellent user experiences.
-- 🌱 Currently, I’m learning advanced web development frameworks and cloud services to expand my skillset.
-- 🏠 Address: [Tổ 21, Khu Phố 4, Phường Bửu Long, TP Biên Hòa, Tỉnh Phú Yên]
+- I am Nguyen Van Duc, a web developer from Vietnam 🇻🇳.
+- I have a passion for coding and am continually exploring new technologies.
+- I specialize in creating responsive, user-friendly websites and scalable web applications.
+- Currently expanding my skills in advanced web frameworks and cloud services.
+- 📍 Address: Tổ 21, Khu Phố 4, Phường Bửu Long, TP Biên Hòa, Tỉnh Phú Yên
 
-## ⭐ My Skills 👨‍💻 👇
+## My Skills 👨‍💻 
 
 <p align="center">
     <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+        <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    </div>
 </p>
 
-## ⭐ What I use 👇
+## Tools & Technologies 👇
 
 <table align="center">
     <tr>
@@ -70,11 +69,11 @@
     </tr>
 </table>
 
-## ⚡ Stats ⚡
+## Stats ⚡
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
