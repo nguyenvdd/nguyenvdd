@@ -14,6 +14,20 @@
 
  ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
+
+
+## 👨‍💻 About me
+
+![My Image](https://imgur.com/g4mbBAb.gif)  <!-- Ảnh từ Imgur -->
+
+- 🔭 Hi, I'm Nguyen Van Duc!
+- 🌍 I'm from Vietnam 🇻🇳.
+- 💡 I’m passionate about coding, and I love exploring new technologies.
+- 🌐 I'm a web developer with experience in both frontend and backend technologies.
+- 🚀 My goal is to build responsive, user-friendly websites and scalable web applications that provide excellent user experiences.
+- 🌱 Currently, I’m learning advanced web development frameworks and cloud services to expand my skillset.
+- 📫 You can reach me at: [nguyenvanduc2k3@gmail.com]
+- 🏠 Address: [Tổ 21, Khu Phố 4, Phường Bửu Long, TP Biên Hòa, Tỉnh Phú Yên]
  </div>
  
 <div align="center"> 
