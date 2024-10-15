@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working on **Web development**  
 - 👯 I’m looking to collaborate on **open-source Android projects**  
-- 📫 How to reach me: [Facebook](https://facebook.com/duccguccii), [LinkedIn](https://linkedin.com/in/yourprofile), [Instagram](https://instagram.com/duccguccii), [TikTok](https://tiktok.com/@ducc20_07), Email: [nguyenvanduc2k3@gmail.com](mailto:nguyenvanduc2k3@gmail.com)
+- 📫 How to reach me: [Facebook](https://facebook.com/duccguccii), [LinkedIn](https://linkedin.com/in/yourprofile), [Instagram](https://instagram.com/duccguccii), [TikTok](https://tiktok.com/@ducc20_07),
+-  Email: [nguyenvanduc2k3@gmail.com](mailto:nguyenvanduc2k3@gmail.com)
 
 ## 👨‍💻 About me
 
