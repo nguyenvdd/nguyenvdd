@@ -1,4 +1,3 @@
-
 # Hi 👋, I'm NGUYEN VAN DUC
 
 ## A passionate developer from Vietnam 🌍
@@ -7,8 +6,9 @@
 - 👯 I’m looking to collaborate on **open-source Android projects**  
 - 📫 How to reach me: [Facebook](https://facebook.com/duccguccii), [LinkedIn](https://linkedin.com/in/yourprofile)
 
-
 ## 👨‍💻 About me
+
+![Profile Image](https://your-link.com/1232132131.gif) <!-- Thay thế đường dẫn này bằng đường dẫn thực tế của ảnh GIF của bạn -->
 
 - 🔭 Hi, I'm Nguyen Van Duc!
 - 🌍 I'm from Vietnam 🇻🇳.
@@ -17,10 +17,6 @@
 - 🚀 My goal is to build responsive, user-friendly websites and scalable web applications that provide excellent user experiences.
 - 🌱 Currently, I’m learning advanced web development frameworks and cloud services to expand my skillset.
 - 📫 You can reach me at: [nguyenvanduc2k3@gmail.com]
-
-
-
-
 
 ## ⭐ My Skills 👨‍💻 👇:
 
@@ -43,6 +39,3 @@
 | Visual Studio Code | Visual Studio | Android Studio | Flutter | Git |
 |:------------------:|:-------------:|:--------------:|:-------:|:---:|
 | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-
-
- https://your-link.com/1232132131.gif
