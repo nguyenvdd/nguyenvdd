@@ -12,9 +12,9 @@ I am a developer who loves coding and learning new technologies...
 
 
 
-### My Skills 👨‍💻
 
-### My Skills 👨‍💻
+
+                                                                     ### My Skills 👨‍💻
 
 #### Programming Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -35,7 +35,7 @@ I am a developer who loves coding and learning new technologies...
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor
+
 
 
 ### What I use 🛠
@@ -47,7 +47,6 @@ I am a developer who loves coding and learning new technologies...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Tin Luu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## Let's Connect 🌐
